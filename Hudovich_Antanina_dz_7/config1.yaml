@@ -1,0 +1,10 @@
+- my_project:
+    - settings:
+        - try1.py
+        - try2.py
+    - mainapp:
+        - sub_dir:
+            - try3.py
+    - adminapp:
+    - authapp:
+    - and_there_too.py
